@@ -7,8 +7,8 @@
 
 - 📫 How to reach me: [Telegram](https://t.me/mistressfilth)
 <!-- - ⚡ Fun fact: ... -->
-- :sunglasses: [My resume](https://docs.google.com/document/d/1EKbKrp6TwxSEUvnBnHBYQRVcK0ZsQfgb/edit?usp=sharing&ouid=102203489364941378981&rtpof=true&sd=true)
-
+<!-- - :sunglasses: [My resume](https://docs.google.com/document/d/1EKbKrp6TwxSEUvnBnHBYQRVcK0ZsQfgb/edit?usp=sharing&ouid=102203489364941378981&rtpof=true&sd=true)
+-->
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
